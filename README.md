@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurjahan</h1>
-<h3 align="center">A passionaCreative Web Designer & WordPress Developer | Empowering Businesses and Entrepreneurs with Modern, High-Performance Websites | Dedicated to Transforming Ideas into Powerful Digital Experiences frontend developer from India</h3>
+<h3 align="center">A passionaCreative Web Designer & WordPress Developer | Empowering Businesses and Entrepreneurs with Modern, High-Performance Websites | Dedicated to Transforming Ideas into Powerful Digital Experiences frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnurjahan&label=Profile%20views&color=0e75b6&style=flat" alt="devnurjahan" /> </p>
 
