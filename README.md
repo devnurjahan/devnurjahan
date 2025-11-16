@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnurjahan" alt="devnurjahan" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancer.com](https://www.freelancer.com.bd/u/nurjahanm4)
+- 🔭 I’m currently working on [Freelancer.com.com](https://www.freelancer.com.bd/u/nurjahanm4)
 
 - 🌱 I’m currently learning **javascript php python**
 
